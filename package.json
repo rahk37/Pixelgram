@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@techiediaries/ngx-textarea-autosize": "^1.3.0"
+  }
+}
